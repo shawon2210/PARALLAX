@@ -2,6 +2,8 @@
 
 **An Interface With Depth** — PARALLAX is an ambient spatial computing layer that organizes your tools, agents, and presence by **how close they are to your attention** — not by which app they live in.
 
+🔗 [Live on Vercel](https://parallax-webapp.vercel.app)
+
 ---
 
 ## Overview
