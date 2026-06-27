@@ -1,0 +1,27 @@
+﻿# Dependencies
+node_modules/
+parallax-webapp/client/node_modules/
+parallax-webapp/server/node_modules/
+
+# Build output
+.next/
+parallax-webapp/client/.next/
+parallax-webapp/server/dist/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Temp scripts
+*.ps1
